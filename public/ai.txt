@@ -1,0 +1,57 @@
+# Entrepreneur & Startup Incubator (E.S.I.) - AI Summary
+
+## Organization Overview
+E.S.I. is a remote student startup incubator founded in 2025 that helps student founders build, launch, and grow their ventures through intensive mentorship and community support.
+
+## Program Details
+- Format: 100% remote with regional meetups
+- Schedule: Daily sessions 7-9 PM PT
+- Duration: 60-day intensive program
+- Cohort Size: 30+ founders per cohort
+- Cost: Free (includes $100 startup tool credit)
+
+## Founders & Leadership
+Iman Yael Schaefer - Founder & Program Lead (LinkedIn: LINKEDIN_IMAN_TODO)
+Alex Aghili - Finance & Operations (LinkedIn: LINKEDIN_ALEX_TODO)
+Ashley Kim - Career Pathways & Speakers (LinkedIn: LINKEDIN_ASHLEY_TODO)
+Bee Schaefer - Program Co-Lead (LinkedIn: LINKEDIN_BEE_TODO)
+
+## Key Achievement
+Won Y Combinator AI Hackathon on August 9, 2025 with FitForm Fitness project, demonstrating program's effectiveness in nurturing competition-ready founders.
+
+## Program Structure
+Week 1-2: Market validation and customer interviews
+Week 3-4: Branding, prototyping, and technical development
+Week 5-6: Pitch development and user testing
+Week 7-8: Go-to-market strategy and fundraising preparation
+
+## Contact Information
+Website: https://esi.example.com
+Email: esi.team@gmail.com
+Apply: https://forms.gle/K8eJKTutyrdXeJFM6
+Discord: https://discord.gg/5RK2MYTSw3
+Instagram: @foundersclubesi
+LinkedIn: /company/entrepreneur-startup-incubator/
+
+## Current Status
+- Cohort 1: Completed (July-August 2025)
+- Cohort 2: Starting September 2025
+- Applications: Open and reviewed on rolling basis
+
+## Success Metrics
+- 30+ Cohort 1 founders
+- 15+ hackathon awards won
+- $50K+ in prize money earned
+- 100% completion rate for committed participants
+
+## Target Audience
+Current students (high school, college, graduate) or recent graduates within 2 years who have startup ideas and can commit to daily 7-9 PM PT sessions.
+
+## Keywords for Search/Discovery
+Student startup incubator, remote founder accelerator, UC Santa Cruz incubator, Y Combinator hackathon winners, AI startup program, student accelerator, entrepreneur program, startup mentorship
+
+## Partners
+Santa Cruz Works, UCSC Crown/CIED, InheritGuard Network, Tiger Leadership, Premier Global Notary
+
+## Notable Alumni Projects
+Echo Journal (AI journaling), Nexogen (biotech), AI Course Generator (education), Boba Vending Robotics (automation), AI Adaptive Sheet Music (music tech), WattNest (energy), Robotic Hand & Health Devices (medical tech), QuantFitness (health), Wing Social App (social), AI Image Recognition (computer vision)

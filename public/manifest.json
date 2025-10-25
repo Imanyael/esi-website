@@ -1,0 +1,54 @@
+{
+  "name": "E.S.I. - Entrepreneur & Startup Incubator",
+  "short_name": "E.S.I.",
+  "description": "Remote student startup incubator helping founders build, launch, and grow their ventures",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#E50914",
+  "orientation": "portrait-primary",
+  "categories": ["education", "business", "productivity"],
+  "lang": "en-US",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Apply Now",
+      "short_name": "Apply",
+      "description": "Apply to join E.S.I. Cohort 2",
+      "url": "/apply",
+      "icons": [
+        {
+          "src": "/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "View Program",
+      "short_name": "Program",
+      "description": "Learn about our 60-day program structure",
+      "url": "/program",
+      "icons": [
+        {
+          "src": "/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ],
+  "scope": "/",
+  "id": "esi-startup-incubator"
+}

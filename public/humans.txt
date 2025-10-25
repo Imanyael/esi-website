@@ -1,0 +1,56 @@
+# E.S.I. - Entrepreneur & Startup Incubator
+
+## Team
+
+Iman Yael Schaefer - Founder & Program Lead
+LinkedIn: LINKEDIN_IMAN_TODO
+
+Alex Aghili - Finance & Operations
+LinkedIn: LINKEDIN_ALEX_TODO
+
+Ashley Kim - Career Pathways & Speakers
+LinkedIn: LINKEDIN_ASHLEY_TODO
+
+Bee Schaefer - Program Co-Lead
+LinkedIn: LINKEDIN_BEE_TODO
+
+## Contact
+
+Email: esi.team@gmail.com
+Website: https://esi.example.com
+Apply: https://forms.gle/K8eJKTutyrdXeJFM6
+Discord: https://discord.gg/5RK2MYTSw3
+Instagram: https://www.instagram.com/foundersclubesi/?hl=en
+LinkedIn Company: https://www.linkedin.com/company/entrepreneur-startup-incubator/
+
+## Program
+
+What: Remote student startup incubator
+Format: 100% remote with regional meetups
+Schedule: Daily 7-9 PM PT sessions
+Duration: 60-day intensive program
+Benefits: Expert mentorship, $100 tool credit, community
+
+## Key Dates
+
+Cohort 1: July-August 2025
+Y Combinator AI Hackathon Win: August 9, 2025 (FitForm Fitness)
+Cohort 2: September 2025 (Applications Open)
+
+## Technology
+
+Built with: Next.js, TypeScript, Tailwind CSS, shadcn/ui
+Hosted on: Netlify
+Design: Dual-theme system (Black+Red+White / Grey+White+CobaltBlue)
+
+## Mission
+
+Democratizing entrepreneurship education for student founders worldwide through
+intensive mentorship, community support, and practical guidance from idea to scale.
+
+## Stats
+
+30+ Cohort 1 Founders
+15+ Hackathon Awards Won
+$50K+ Prize Money Earned
+100% Remote + Regional Meetups

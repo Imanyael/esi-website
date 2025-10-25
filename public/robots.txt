@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://esi.example.com
+
+# Sitemaps
+Sitemap: https://esi.example.com/sitemap.xml

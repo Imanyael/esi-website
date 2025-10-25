@@ -1,0 +1,33 @@
+[images]
+  remote_images = ["https://source.unsplash.com/.*", "https://images.unsplash.com/.*", "https://ext.same-assets.com/.*", "https://ugc.same-assets.com/.*"]
+
+[build]
+  command = "bun run build"
+  publish = "out"
+
+[build.environment]
+  NEXT_TELEMETRY_DISABLED = "1"
+  NEXT_PUBLIC_SITE_URL = "https://esi.example.com"
+
+# Removed Next.js plugin due to form migration issue
+# [[plugins]]
+#   package = "@netlify/plugin-nextjs"
+
+# Form handling for contact page
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "DENY"
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+
+# Redirects for SEO
+[[redirects]]
+  from = "/home"
+  to = "/"
+  status = 301
+
+[[redirects]]
+  from = "/index"
+  to = "/"
+  status = 301
